@@ -22,7 +22,9 @@
     git pull origin main
 ### add the files using the command
     git add .
-    
+### add the commit message using this command
+    git commit 
+then write the commit messages and save
 ### push the files to the remote repo
     git push -u origin main
 
